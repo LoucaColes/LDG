@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\louca\desktop\ldg\ldg\ldg\source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LibraryDisplayGenerator.cpp
+c:\users\louca\desktop\ldg\ldg\ldg\librarydisplaygenerator.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\louca\desktop\ldg\ldg\ldg\librarydisplaygenerator.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\louca\desktop\ldg\ldg\ldg\librarydisplaygenerator.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\louca\desktop\ldg\ldg\ldg\librarydisplaygenerator.cpp(271): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LDG.vcxproj -> C:\Users\louca\Desktop\LDG\LDG\Debug\LDG.exe
+  LDG.vcxproj -> C:\Users\louca\Desktop\LDG\LDG\Debug\LDG.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  LibraryDisplayGenerator.cpp
+  Source.cpp
+Source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 338 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LDG.vcxproj -> C:\Users\louca\Desktop\LDG\LDG\x64\Release\LDG.exe
+  LDG.vcxproj -> C:\Users\louca\Desktop\LDG\LDG\x64\Release\LDG.pdb (Full PDB)

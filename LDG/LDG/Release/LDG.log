@@ -1,0 +1,13 @@
+﻿  Helper.cpp
+  LibraryDisplayGenerator.cpp
+LibraryDisplayGenerator.cpp(111): warning C4018: '<': signed/unsigned mismatch
+LibraryDisplayGenerator.cpp(233): warning C4018: '<': signed/unsigned mismatch
+LibraryDisplayGenerator.cpp(261): warning C4018: '<': signed/unsigned mismatch
+LibraryDisplayGenerator.cpp(272): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+Source.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 338 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LDG.vcxproj -> C:\Users\louca\Desktop\LDG\LDG\Release\LDG.exe
+  LDG.vcxproj -> C:\Users\louca\Desktop\LDG\LDG\Release\LDG.pdb (Full PDB)
